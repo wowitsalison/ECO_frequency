@@ -24,3 +24,6 @@ Gets the most frequent opening ECO codes as white and black for each of the top 
 | 18 | Gukesh D | D38 | B31 |
 | 19 | Vachier-Lagrave, Maxime | C55 | D35 |
 | 20 | Grebnev, Aleksey | D26 | C42 |
+
+
+Note: ECO code "000" means the player has openings in unstandard chess variations as their most played opening (e.g. chess960)
